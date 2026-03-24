@@ -6,8 +6,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/ipankajkumar93?style=for-the-badge&logo=github)](https://github.com/ipankajkumar93)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ipankajkumar93)
 
-<br />
-
 ---
 
 ### 👨‍💻 About Me
