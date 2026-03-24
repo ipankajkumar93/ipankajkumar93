@@ -1,6 +1,5 @@
 # Hey! 🙋‍♂️ I'm [Pankaj](https://pankajkumar.xyz/) & I ❤️ Open Source!
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2017-blue?style=for-the-badge&logo=github)](https://github.com/ipankajkumar93)
 [![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public+Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fipankajkumar93&color=blue&logo=github)](https://github.com/ipankajkumar93)
 [![Profile Views](https://komarev.com/ghpvc/?username=ipankajkumar93&style=for-the-badge&color=blue&label=PROFILE+VIEWS)](https://github.com/ipankajkumar93)
