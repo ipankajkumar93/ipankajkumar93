@@ -1,7 +1,7 @@
 # Hey! 🙋‍♂️ I'm [Pankaj](https://pankajkumar.xyz/) & I ❤️ Open Source!
 
 [![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2017-blue?style=for-the-badge&logo=github)](https://github.com/ipankajkumar93)
-[![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public+Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fipankajkumar93&color=blue&logo=github)](https://github.com/ipankajkumar93)
+![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public+Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fipankajkumar93&color=blue&logo=github&cacheSeconds=86400)
 [![Profile Views](https://komarev.com/ghpvc/?username=ipankajkumar93&style=for-the-badge&color=blue&label=PROFILE+VIEWS)](https://github.com/ipankajkumar93)
 [![GitHub Stars](https://img.shields.io/github/stars/ipankajkumar93?style=for-the-badge&logo=github)](https://github.com/ipankajkumar93)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ipankajkumar93)
@@ -59,18 +59,21 @@ I am a passionate software engineer with **10+ years of experience** across the 
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ipankajkumar93&theme=blue-green)](https://git.io/streak-stats)
+<img align="left" src="https://streak-stats.demolab.com/?user=ipankajkumar93&theme=blue-green" alt="GitHub Streak" width="48%"/>
 
-<br/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ipankajkumar93&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipankajkumar93&theme=dark&layout=compact&langs_count=8" width="40%"/>
+<img align="right" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ipankajkumar93&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%"/>
 
 <br clear="both"/>
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ipankajkumar93&theme=dark&layout=compact&langs_count=8" alt="Top Languages" width="40%"/>
+</p>
 
 ---
 
 ### 📫 Let's Connect
 
 [![Website](https://img.shields.io/badge/Website-pankajkumar.xyz-blue?style=for-the-badge&logo=google-chrome)](https://pankajkumar.xyz/)
-[![GitHub](https://img.shields.io/badge/GitHub-ipankajkumar93-black?style=for-the-badge&logo=github)](https://github.com/ipankajkumar93)
+[![GitHub](https://img.shields.io/badge/GitHub-ipankajkumar93-orange?style=for-the-badge&logo=github)](https://github.com/ipankajkumar93)
